@@ -1,0 +1,10 @@
+# local preview scratch (headless-chrome PNGs + static SVG frames)
+_*.png
+_*.svg
+avi-ascii-static.svg
+*-preview.png
+_preview.sh
+
+# python
+__pycache__/
+*.pyc
