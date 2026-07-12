@@ -18,9 +18,9 @@
 
 **Developer · Meme Enthusiast · Ships Code in a Suit**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-yoursite.com-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://YOURSITE.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sangwaniya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOURHANDLE)
-[![Instagram](https://img.shields.io/badge/Instagram-Sangwaniya-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOURHANDLE)
+[![Portfolio](https://img.shields.io/badge/Portfolio-yoursite.com-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](building...)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sangwaniya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Sangwaniya)
+[![Instagram](https://img.shields.io/badge/Instagram-Sangwaniya-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Sangwaniya)
 
 <br>
 
