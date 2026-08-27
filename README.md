@@ -18,7 +18,7 @@
 
 **Developer · Meme Enthusiast · Ships Code in a Suit**
 
-[![Portfolio](https://sangwan.is-a.dev/)]([https://sangwan.is-a.dev/])
+[![Portfolio](https://img.shields.io/badge/sangwan.is-a.dev-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://sangwan.is-a.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sangwaniya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Sangwaniya)
 [![Instagram](https://img.shields.io/badge/Instagram-Sangwaniya-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Sangwaniya)
 
